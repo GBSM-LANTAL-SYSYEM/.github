@@ -11,8 +11,6 @@
 
 > 현재는 실습실 대여 시스템 v2를 개발하고 있습니다.
 
-</br>
-
 ## 🧑‍💻 Member
 **성홍제** - Front-End | <a href="https://github.com/806gw" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
