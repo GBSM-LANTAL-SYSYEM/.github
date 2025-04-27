@@ -1,11 +1,10 @@
 # 👋 안녕하세요! [PLAB](https://github.com/GBSM-PLAB) 입니다.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2294a8bc-9b90-45d6-86e7-dc20c529b785">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/19503964-c468-46f1-8f11-88d9f7c19d04">
-  <img src="https://github.com/user-attachments/assets/19503964-c468-46f1-8f11-88d9f7c19d04" alt="PLAB 로고">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/19503964-c468-46f1-8f11-88d9f7c19d04">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2294a8bc-9b90-45d6-86e7-dc20c529b785">
+  <img src="https://github.com/user-attachments/assets/2294a8bc-9b90-45d6-86e7-dc20c529b785" alt="PLAB 로고">
 </picture>
-
 
 ## 📌 PLAB은 실습실 대여의 불편함을 해결하기 위해 노력하고 있습니다.
 
