@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/2294a8bc-9b90-45d6-86e7-dc20c529b785" alt="PLAB 로고">
 </picture>
 
-## 📌 PLAB은 실습실 대여의 불편함을 해결하기 위해 노력하고 있습니다.
+## PLAB은 실습실 대여의 불편함을 해결하기 위해 노력하고 있습니다.
 
 기존의 실습실 대여 시스템을 편하게 이용할 수 있도록 하는것을 목표로 두고 있습니다.
 
@@ -15,9 +15,11 @@
 
 > 현재는 실습실 대여 시스템 v2를 개발하고 있습니다.
 
-## 🧑‍💻 Member
-**성홍제** - Front-End | <a href="https://github.com/806gw" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+## Member
+**성홍제** - Web Front-End | <a href="https://github.com/806gw" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
-**최성욱** - Front-End | <a href="https://github.com/choiseongwook11" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+**최성욱** - Web Front-End | <a href="https://github.com/choiseongwook11" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+
+**추승주** - Mobile App | <a href="https://github.com/cntmdwn24" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 **김승환** - Back-End | <a href="https://github.com/silofn523" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>   
