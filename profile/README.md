@@ -20,6 +20,6 @@
 
 **최성욱** - Web Front-End | <a href="https://github.com/choiseongwook11" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
-<!-- **추승주** - Mobile App | <a href="https://github.com/cntmdwn24" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> -->
-
 **김승환** - Back-End | <a href="https://github.com/silofn523" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>   
+
+**김은찬** - Designer | <a href="https://github.com/kec08" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
