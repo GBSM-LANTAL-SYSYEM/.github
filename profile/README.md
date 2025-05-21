@@ -22,4 +22,6 @@
 
 **김승환** - Back-End | <a href="https://github.com/silofn523" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>   
 
+**변예현** - App | <a href="https://github.com/yehyun207" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>   
+
 **김은찬** - Designer | <a href="https://github.com/kec08" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
