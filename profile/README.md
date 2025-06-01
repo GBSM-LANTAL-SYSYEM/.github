@@ -13,7 +13,7 @@
 또한 단순히 개발에서 끝나는 것이 아닌 편리하게 사용할 수 있도록
 조금씩 개선해 나가며 관리하고 있습니다.
 
-> 현재는 실습실 대여 시스템 v2를 개발하고 있습니다.
+> 현재는 실습실 대여 시스템 v3를 개발하고 있습니다.
 
 ## Member
 **성홍제** - Web Front-End | <a href="https://github.com/806gw" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
